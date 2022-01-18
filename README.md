@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/gauravkumar220900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravkumar220900" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/gaurav_2209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav_2209" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/gk0736542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gk0736542" height="30" width="40" /></a>
+  <a href="https://leetcode.com/Gaurav2209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gk0736542" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/gk0736542" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="gk0736542" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/gk0736542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gk0736542" height="30" width="40" /></a>
   <a href="https://instagram.com/gauravv_kumar_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravv_kumar_gupta" height="30" width="40" /></a>
